@@ -84,4 +84,4 @@ console.log(c1 === null || c1 === void 0 ? void 0 : c1.birthday);
 let log = null;
 let d = log === null || log === void 0 ? void 0 : log('a');
 console.log(d);
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=2.js.map
